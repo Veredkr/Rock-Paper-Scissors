@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Rock-Paper-Scissors “board game” algorithm and tournament manager
+HW during the course "Advanced Topics in Programming", at Tel Aviv University 2018. All of the work was made by 2 students: a colleague from the course, and me.
